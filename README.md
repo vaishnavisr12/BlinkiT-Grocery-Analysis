@@ -1,5 +1,6 @@
 # BlinkiT-Grocery-Analysis - Excel
 ![](https://i.pinimg.com/736x/45/85/76/45857642851c3b0b538777279fe8cdaa.jpg)
+
 This project provides a structured analytical evaluation of BlinkIT’s grocery retail dataset, focusing on sales performance, product category contribution, and outlet-level profitability. Using advanced Excel analytics, the project transforms raw operational data into actionable business intelligence through a dynamic and interactive dashboard.
 
 Conducted comprehensive exploratory data analysis (EDA) on the BlinkIT retail dataset to evaluate sales performance, product mix efficiency, and outlet-level profitability using advanced Excel techniques.
